@@ -106,9 +106,10 @@ class SekaTbisla:
 </div>
 
 ---
-<div align="center">
 
 ## `$ cat /etc/manifest`
+
+<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
