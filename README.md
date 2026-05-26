@@ -26,6 +26,20 @@
 
 ---
 
+## `$ git stats --global`
+
+<div align="center">
+
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seka35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seka35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Seka35&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff)](https://github.com/Seka35)
+
+</div>
+
+---
+
 ## `$ whoami`
 
 ```python
@@ -122,19 +136,6 @@ class SekaTbisla:
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
----
-
-## `$ git stats --global`
-
-<div align="center">
-
-![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seka35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seka35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Seka35&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff)](https://github.com/Seka35)
-
-</div>
 
 ---
 
