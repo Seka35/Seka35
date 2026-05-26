@@ -34,8 +34,7 @@ class TonyFreour:
     location   = "Denpasar, Bali, Indonesia 🌴"
     company    = "PT. Boring Ventures Asia (Co-founder)"
     role       = "Full-Stack Developer & AI Specialist"
-    languages  = ["French 🇫🇷 (Native)", "English (Fluent)"]
-    website    = "https://tonyfreour.pro"
+    languages  = ["French 🇫🇷 (Native)", "English 🇬🇧 (Fluent)", "Bahasa 🇮🇩 (Basic)"]
     
     focus = [
         "LLM-powered applications",
