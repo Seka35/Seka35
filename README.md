@@ -117,7 +117,7 @@ class SekaTbisla:
 ╠══════════════════════════════════════════════════════════════╣
 ║  ◆ LangChain & ElizaOS AI agent systems                      ║
 ║  ◆ RAG pipelines with Pinecone / Chroma vector DBs           ║
-║  ◆ Multi-agent systems for complex workflow orchestration     ║
+ ║  ◆ Multi-agent systems for complex workflow orchestration    ║
 ║  ◆ Computer vision & facial recognition (OpenCV)             ║
 ║  ◆ Cybersecurity audits, CVSS scoring & pentest reports      ║
 ║  ◆ Self-hosted LLM infra (Ollama, LM Studio) — 70% cost cut  ║
