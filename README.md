@@ -30,7 +30,7 @@
 
 ```python
 class TonyFreour:
-    name       = "Tony Freour"
+    name       = "Seka Tbisla"
     location   = "Denpasar, Bali, Indonesia 🌴"
     company    = "PT. Boring Ventures Asia (Co-founder)"
     role       = "Full-Stack Developer & AI Specialist"
