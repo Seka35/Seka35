@@ -29,7 +29,7 @@
 ## `$ whoami`
 
 ```python
-class TonyFreour:
+class SekaTbisla:
     name       = "Seka Tbisla"
     location   = "Denpasar, Bali, Indonesia 🌴"
     company    = "PT. Boring Ventures Asia (Co-founder)"
