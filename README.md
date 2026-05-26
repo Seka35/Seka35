@@ -106,6 +106,7 @@ class SekaTbisla:
 </div>
 
 ---
+<div align="center">
 
 ## `$ cat /etc/manifest`
 
@@ -125,7 +126,7 @@ class SekaTbisla:
 ║  ◆ Multi-VPS Docker/Traefik stacks across Hetzner/Hostinger  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
+</div>
 
 ---
 
