@@ -1,7 +1,9 @@
 <div align="center">
 
 ### `Full-Stack Developer & AI Specialist · Bali 🌴`
-
+<div align="center">
+  <img src="Screenshot_2026-07-17_11-08-57.png" alt="profil image" width="500" />
+</div>
 ```      
                                                                       
  _____  _____  _   __  ___  
@@ -13,9 +15,6 @@
 
 
 ```
-<div align="center">
-  <img src="Screenshot_2026-07-17_11-08-57.png" alt="profil image" width="500" />
-</div>
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Seka35&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Seka35)
