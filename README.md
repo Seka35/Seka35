@@ -12,12 +12,11 @@
 [![Years](https://badges.pufler.dev/years/Seka35?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/Seka35)
 [![Repos](https://badges.pufler.dev/repos/Seka35?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/Seka35)
 
-</div>
 
-<div align="center">
+
   <img src="Screenshot_2026-07-17_11-08-57.png" alt="profil image" width="500" />
 
-
+</div>
 ---
 
 ## `$ git stats --global`
