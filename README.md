@@ -1,7 +1,7 @@
 <div align="center">
 
 ### `Full-Stack Developer & AI Specialist · Bali 🌴`
-
+ascii-art.png
 ```
 
  _____  _____  _   __  ___  
@@ -11,6 +11,7 @@
 /\__/ /| |___ | |\  \| | | |
 \____/ \____/ \_| \_/\_| |_/
 
+![Description de l'image](ascii-art.png)
 ```
 [![Profile Views](https://komarev.com/ghpvc/?username=Seka35&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Seka35)
 [![Years](https://badges.pufler.dev/years/Seka35?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/Seka35)
