@@ -6,7 +6,7 @@
   <img src="Screenshot_2026-07-17_11-08-57.png" alt="profil image" width="500" />
 </div>
 
-```      
+```
                                                                       
  _____  _____  _   __  ___  
 /  ___||  ___|| | / / / _ \ 
@@ -18,11 +18,17 @@
 
 ```
 
+<br />
+<p align="center">
+  <a href="https://github.com/Seka35">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+Specialist+%F0%9F%A4%96;Building+things+from+Bali+%F0%9F%8C%B4" alt="Typing SVG" />
+  </a>
+</p>
+<br />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Seka35&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Seka35)
 [![Years](https://badges.pufler.dev/years/Seka35?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/Seka35)
 [![Repos](https://badges.pufler.dev/repos/Seka35?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/Seka35)
-
 
 </div>
 
@@ -71,6 +77,14 @@ class SekaTbisla:
             "automation"  : ["n8n", "Puppeteer", "Selenium", "Scrapy", "Telegram Bot API"],
         }
 ```
+
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,vue,tailwind,nodejs,express,flask,laravel,postgres,mongodb,mysql,redis,sqlite,docker,nginx,linux,githubactions,tensorflow,pytorch,opencv,bash&theme=dark&perline=8" alt="Tech Stack" />
+  </a>
+</p>
+<br />
 
 ---
 
@@ -135,6 +149,7 @@ class SekaTbisla:
 ║  ◆ Multi-VPS Docker/Traefik stacks across Hetzner/Hostinger  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
 </div>
 
 ---
