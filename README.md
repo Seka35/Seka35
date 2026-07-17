@@ -14,7 +14,7 @@
 
 ```
 <div align="center">
-  <img src="ascii-art-removebg-preview.png" alt="profil image" width="500" />
+  <img src="Screenshot_2026-07-17_11-08-57.png" alt="profil image" width="500" />
 </div>
 
 
