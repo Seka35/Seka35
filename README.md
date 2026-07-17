@@ -14,7 +14,7 @@ ascii-art.png
 
 ```
 <div align="center">
-  <img src="ascii-art.png" alt="profil image" width="500" />
+  <img src="ascii-art(1).png" alt="profil image" width="500" />
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Seka35&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Seka35)
