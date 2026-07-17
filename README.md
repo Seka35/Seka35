@@ -11,10 +11,12 @@ ascii-art.png
 /\__/ /| |___ | |\  \| | | |
 \____/ \____/ \_| \_/\_| |_/
 
+
+```
 <div align="center">
   <img src="ascii-art.png" alt="profil image" width="500" />
 </div>
-```
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Seka35&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Seka35)
 [![Years](https://badges.pufler.dev/years/Seka35?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/Seka35)
 [![Repos](https://badges.pufler.dev/repos/Seka35?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/Seka35)
