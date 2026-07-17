@@ -12,18 +12,14 @@
 [![Repos](https://badges.pufler.dev/repos/Seka35?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/Seka35)
 
 <br />
-
-<div align="center">
-  <img src="Screenshot_2026-07-17_11-08-57.png" alt="profil image" width="500" />
-</div>
-
-
 </div>
 
 ---
 
 ## `$ git stats --global`
-
+<div align="center">
+  <img src="Screenshot_2026-07-17_11-08-57.png" alt="profil image" width="500" />
+</div>
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Seka35&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff)](https://github.com/Seka35)
