@@ -1,11 +1,4 @@
 <div align="center">
-
-### `Full-Stack Developer & AI Specialist · Bali 🌴`
-
-<div align="center">
-  <img src="Screenshot_2026-07-17_11-08-57.png" alt="profil image" width="500" />
-</div>
-
 <br />
 <p align="center">
   <a href="https://github.com/Seka35">
@@ -13,6 +6,10 @@
   </a>
 </p>
 <br />
+
+<div align="center">
+  <img src="Screenshot_2026-07-17_11-08-57.png" alt="profil image" width="500" />
+</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Seka35&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Seka35)
 [![Years](https://badges.pufler.dev/years/Seka35?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/Seka35)
