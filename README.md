@@ -1,9 +1,11 @@
 <div align="center">
 
 ### `Full-Stack Developer & AI Specialist · Bali 🌴`
+
 <div align="center">
   <img src="Screenshot_2026-07-17_11-08-57.png" alt="profil image" width="500" />
 </div>
+
 ```      
                                                                       
  _____  _____  _   __  ___  
